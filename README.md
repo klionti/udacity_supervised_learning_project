@@ -2,14 +2,14 @@
 
 ## Software and Libraries
 
-This code was developed using Python 3.11.4/
+This code was developed using Python 3.11.4<br>
 This project uses the following software and Python libraries:
 
-Python/
-NumPy/
-pandas/
-scikit-learn (v0.17)/
-Matplotlib/
+Python<br>
+NumPy<br>
+pandas<br>
+scikit-learn (v0.17)<br>
+Matplotlib<br>
 You will also need to have software installed to run and execute a Jupyter Notebook.
 
 If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included. 
