@@ -1,4 +1,4 @@
-# udacity_supervised_learning_project
+# udacity supervised learning project:  Finding Donors for CharityML.
 
 ## Software and Libraries
 
