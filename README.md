@@ -16,10 +16,10 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ## Files
 Useful files:<br>
-finding_donors.ipynb: This is the main file where models are trained, optimized and where predictions are made.<br>
-census.csv: The project dataset. You'll load this data in the notebook.<br>
-visuals.py: This Python script provides supplementary visualizations for the project.<br>
-README.md
+- finding_donors.ipynb: This is the main file where models are trained, optimized and where predictions are made.<br>
+- census.csv: The project dataset. You'll load this data in the notebook.<br>
+- visuals.py: This Python script provides supplementary visualizations for the project.<br>
+- README.md
 
 ## Data source
 https://archive.ics.uci.edu/dataset/20/census+income
