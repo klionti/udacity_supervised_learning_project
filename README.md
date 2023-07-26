@@ -2,7 +2,8 @@
 
 ## Software and Libraries
 
-This code was developed using Python 3.11.4<br>
+This code was developed using Python 3.11.4
+
 This project uses the following software and Python libraries:
 
 Python<br>
