@@ -15,10 +15,10 @@ You will also need to have software installed to run and execute a Jupyter Noteb
 If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included. 
 
 ## Files
-Useful files:/
-finding_donors.ipynb: This is the main file where models are trained, optimized and where predictions are made./
-census.csv: The project dataset. You'll load this data in the notebook./
-visuals.py: This Python script provides supplementary visualizations for the project./
+Useful files:<br>
+finding_donors.ipynb: This is the main file where models are trained, optimized and where predictions are made.<br>
+census.csv: The project dataset. You'll load this data in the notebook.<br>
+visuals.py: This Python script provides supplementary visualizations for the project.<br>
 README.md
 
 ## Data source
